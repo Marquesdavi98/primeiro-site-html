@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yazza Análises Laboratoriais - Horário de Atendimento</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <ul>
+                <li><a href="index.html">Página Inicial</a></li>
+                <li><a href="sobre.html">Sobre a Clínica</a></li>
+                <li><a href="horario.html">Horário de Atendimento</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <img src="header-horario.jpg" width="986" height="150">
+            </div>
+    
+            <div class="content">
+                <table border="1">
+                    <thead>
+                        <tr>
+                            <th>Serviços</th>
+                            <th>Segunda a Sexta</th>
+                            <th>Preços</th>
+                            <th>Formas de Pagamento</th>
+                            <th>Convênio</th>
+                            <th>SUS</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Exames Laboratoriais</td>
+                            <td>08h - 17h</td>
+                            <td>R$ 50,00</td>
+                            <td>PIX e dinheiro</td>
+                            <td>SIM</td>
+                            <td>SIM</td>
+                        </tr>
+                        <tr>
+                            <td>Raio-X</td>
+                            <td>08h - 17h</td>
+                            <td>R$ 100,00</td>
+                            <td>PIX e dinheiro</td>
+                            <td>SIM</td>
+                            <td>SIM</td>
+                        </tr>
+                        <tr>
+                            <td>Ultrassonografia</td>
+                            <td>08h - 17h</td>
+                            <td>À partir de R$ 150,00</td>
+                            <td>PIX e dinheiro</td>
+                            <td>SIM</td>
+                            <td>SIM</td>
+                        </tr>
+                        <tr>
+                            <td>Tomografia</td>
+                            <td>08h - 17h</td>
+                            <td>R$ 200,00</td>
+                            <td>PIX e dinheiro</td>
+                            <td>10% desconto</td>
+                            <td>50% desconto</td>
+                        </tr>
+                        <tr>
+                            <td>Cardiologia</td>
+                            <td>08h - 17h</td>
+                            <td>R$ 250,00</td>
+                            <td>PIX e dinheiro</td>
+                            <td>10% desconto</td>
+                            <td>50% desconto</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+    
+            <div class="footer">
+                <p>Yazza Análises Laboratoriais</p>
+                <p>Avenida São João, Nº 543 - São José dos Campos - SP</p>
+                <p>CEP: 12242-840</p>
+                <p>Telefone: (12) 9999-9999 / (12)9999-9999</p>
+                <p>E-mail: yazzaexames@yazza.com.br</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
