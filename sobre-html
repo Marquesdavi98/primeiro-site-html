@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yazza Análises Laboratoriais - Sobre a Clínica</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <ul>
+                <li><a href="index.html">Página Inicial</a></li>
+                <li><a href="sobre.html">Sobre a Clínica</a></li>
+                <li><a href="horario.html">Horário de Atendimento</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </div>
+
+        <div class="main">
+            <div class="header">
+                <img src="header-sobre.jpg" width="986" height="150">
+            </div>
+    
+            <div class="content">
+                <p>Inaugurada em 1965 pelo <i>Dr. Scooby-Doo</i>, a clínica <u>Yazza</u> ganhou a preferência de muitas pessoas, não só pela excelência profissional <br>
+                mas também pela comodidade que nossos clientes tem dentro da clínica. <strong>Temos uma ampla sala de espera com poltronas confortáveis, bebedouro
+                com água gelada, ar-condicionado</strong> e uma equipe de funcionários treinada para que sua experiência possa ser a melhor possível!
+                </p>
+                <p>A nossa mais nova aquisição foi o aparelho de ultrassonografia, que conta com tecnologia de última geração e permite <br>
+                ver detalhadamente e com uma <u>imagem de altíssima qualidade</u>.
+                </p>
+            </div>
+    
+            <div class="footer">
+                <p>Yazza Análises Laboratoriais</p>
+                <p>Avenida São João, Nº 543 - São José dos Campos - SP</p>
+                <p>CEP: 12242-840</p>
+                <p>Telefone: (12) 9999-9999 / (12)9999-9999</p>
+                <p>E-mail: yazzaexames@yazza.com.br</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
